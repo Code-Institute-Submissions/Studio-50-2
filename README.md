@@ -1,45 +1,88 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
-Welcome USER_NAME,
+# Website for a gym 
+This is a website for a gym called **Studio 50**. Studio 50 is a studio gym with an intensive 
+50 minute workout for its clients. Clients can see the timetable, the location, and sign up for Studio 50. 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+[View website here](http://github.com)
 
-## Gitpod Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+# User Experience (UX)
+## User Stories 
+* As a potential client visting the website I want the clients to:
+    * See the logo and landing page and be able to scroll
+    down the page. 
+    * See how much it costs. 
+    * See what other clients have to say about Studio 50. 
+    * See the opening times. 
+    * See the features of Studio 50 and see the map.
+    * Have the ability to sign up to Studio 50 on various 
+    locations on the page. 
 
-`python3 -m http.server`
+* As the Studio 50 owner I want to: 
+    * See the logo and how much it costs.
+    * See what previous clients thought. 
+    * See the opening times and location.
+    * Allow clients to sign up on various locations on 
+    the page. 
 
-A blue button should appear to click: *Make Public*,
+# Design 
+* **Color scheme**: background-color: #000000 (black), white, and #85ffb6 (green)
+    The colors are from the Studio 50 logo and are used throughout 
+    for consistency. 
 
-Another blue button should appear to click: *Open Browser*.
+* **Typography**: The font is Mukta with sans-serif. I used this 
+font as it is easy to read. 
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+* **Imagery**: The Studio 50 logo forms the main imagery of the page.
+Other images include two stock pictures of clients. 
 
-A blue button should appear to click: *Make Public*,
+* **Wireframe**: See photo in the images file labelled 
+Wireframe. 
 
-Another blue button should appear to click: *Open Browser*.
+# Features 
+## Exisisting Features 
+ * **Header** : The header links to other sections of the website. The navbar also collapses accordingly
+ to the device the websote is beong viewed on. 
+ * **Jumbotron**: The jumbotron is the logo of Studio 50. The jumbtron image reacts accordingly to the device
+ it is being viewed on. 
+ * **Reviews**: This section sets out what clients have said about Studio 50. 
+ * **Opening Times**: This section allows clients to see when Studio 50 is open.
+ * **The Studio**: This section allows new clients to see the features of Studio 50 and its ethos. 
+ * **Map**: This is for clients to see the location. 
+ * **Footer**: The footer section has external links to Studio 50's social media pages. 
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Future Featues 
+I would like to include 
+* The ability to buy a membership
+* The ability to buy Studio 50 merchandise
 
-## Updates Since The Instructional Video
+# Technology Used 
+## Languages 
+* HTML5
+* CSS3
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+# Frameworks and programs uses
+* Bootsrap v4.5: Used for layout and positioning of elements and navigation bar. 
+* Font Awesome: Used icons for the Studio section and footer. 
+* Google Fonts: Used for importing fonts. 
+* Git, GitPod and GitHub: Used gor version control and hosting page.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+# Testing 
+## Functionality Testing 
+* Header: All page links bring you to the correct
+section when clicked. On mobile decives the navbar collapses. 
+All page links work when navbar is collapsed. 
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+* Footer: The footer contains four social media links. Eaach one links to an external page in a new tab. 
+This was also tested on mobile.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+* Buttons: The "sign up" button pops out when clicked. This was tested on desktop and mobile devices. Error messages also 
+appear when the "sign up" form is not completed correctly. 
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+## Testing User Stories 
+* 
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+    
 
---------
-
-Happy coding!
