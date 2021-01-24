@@ -5,6 +5,9 @@ This is a website for a gym called **Studio 50**. Studio 50 is a studio gym with
 
 [View website here](http://github.com)
 
+![Responsive](https://user-images.githubusercontent.com/73709934/105246885-ccc4a600-5b6b-11eb-8502-53d144698252.JPG)
+
+
 
 # User Experience (UX)
 ## User Stories 
@@ -36,8 +39,7 @@ font as it is easy to read.
 * **Imagery**: The Studio 50 logo forms the main imagery of the page.
 Other images include two stock pictures of clients. 
 
-* **Wireframe**: See photo in the images file labelled 
-Wireframe. 
+* **Wireframe**: [Wireframes.pdf](https://github.com/ckk-pls/Studio-50-2/files/5845572/Wireframes.pdf)
 
 # Features 
 ## Exisisting Features 
@@ -106,8 +108,8 @@ over it did not work. I discussed this with my mento and we were unable to solve
 ## Credits 
 * **Logo**: was created using www.canva.com along with fontawesome for the logos in the feaures section. 
 
-* **Images**:  Girl1-gym- https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shape.com%2Ffitness%2Fworkouts%2Fleg-workouts%2Fkettlebell-squat-variations&psig=AOvVaw2SZV4DAzds3Ye_pmoVpT12&ust=1610373690799000&source=images&cd=vfe&ved=2ahUKEwjDqtHPw5HuAhU7ZRUIHRfYDuQQr4kDegUIARCGAQ
-    gym2- image - https://aaptiv.com/magazine/functional-training
+* **Images**:  Girl1-gym- (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shape.com%2Ffitness%2Fworkouts%2Fleg-workouts%2Fkettlebell-squat-variations&psig=AOvVaw2SZV4DAzds3Ye_pmoVpT12&ust=1610373690799000&source=images&cd=vfe&ved=2ahUKEwjDqtHPw5HuAhU7ZRUIHRfYDuQQr4kDegUIARCGAQ
+    gym2- image - https://aaptiv.com/magazine/functional-training) 
 
 * **Code for outlay and website set up**: Code Institute videos on CSS Fundamentals and User Centric Frontend Development. 
 
