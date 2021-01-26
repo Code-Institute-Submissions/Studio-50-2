@@ -3,10 +3,9 @@
 This is a website for a gym called **Studio 50**. Studio 50 is a studio gym with an intensive 
 50 minute workout for its clients. Clients can see the timetable, the location, and sign up for Studio 50. 
 
-[View website here](http://github.com)
+[View website here](https://ckk-pls.github.io/Studio-50-2/)
 
 ![Responsive](https://user-images.githubusercontent.com/73709934/105246885-ccc4a600-5b6b-11eb-8502-53d144698252.JPG)
-
 
 
 # User Experience (UX)
@@ -54,7 +53,7 @@ Other images include two stock pictures of clients.
  * **Footer**: The footer section has external links to Studio 50's social media pages. 
 
 ## Future Featues 
-I would like to include 
+I would like to include:
 * The ability to buy a membership.
 * The ability to buy Studio 50 merchandise.
 
@@ -97,13 +96,43 @@ appear when the "sign up" form is not completed correctly.
 * I tried to add a specific location on the map for the gym. I signed up for an API key with Google but when the link was copied
 over it did not work. I discussed this with my mento and we were unable to solve.
 
+* I had a bug in relation to using bootstrap "table-center". It was creating a wide margin on the
+mobile version of the website. I removed the bootstrap code which fixed the margin. 
 
+## Further Testing 
+
+* **Lighthouse** : The desktop version of the mobile and website received the following score: 
+
+* Mobile
+
+![Lighthouse - mobile](https://user-images.githubusercontent.com/73709934/105905304-30424e00-601a-11eb-93a5-5abf2fc38d34.JPG)
+
+* Website
+
+![Lighthouse - website](https://user-images.githubusercontent.com/73709934/105905425-549e2a80-601a-11eb-9f87-1f9e68bfff07.JPG)
+
+* **Other Testing**
+
+* The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+* The website was also viewed on a variety of other devices such as desktop, laptop, iPhone7, iPhone 8 & iPhoneX.
+* Friends and family members were provided with the website linka and asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ## Deployment 
 
-?
+* The site was deployed using GitHub Pages using the following steps.
 
+* Log into GitHub.
+* Go to the required repository which can be found [here](https://github.com/ckk-pls/Studio-50-2).
+* In the submenu, click the settings tab and scroll down to GitHub Pages.
+* Change the source to 'master branch' and, when the page reloads, copy the link (which has now been created) into your browser.
 
+* To clone the site follow the steps below.
+
+* Log into GitHub.
+* Go to the required repository which can be found [here](https://github.com/ckk-pls/Studio-50-2).
+* Next to the green 'Gitpod' button, click the drop down menu that says 'code'.
+* Copy the url provided.
+* Open the terminal that you would like to use to clone the site and enter 'git clone' followed by the copied url. When you press enter, the code will be cloned.*
 
 ## Credits 
 * **Logo**: was created using www.canva.com along with fontawesome for the logos in the feaures section. 
@@ -111,7 +140,7 @@ over it did not work. I discussed this with my mento and we were unable to solve
 * **Images**:  Girl1-gym- (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shape.com%2Ffitness%2Fworkouts%2Fleg-workouts%2Fkettlebell-squat-variations&psig=AOvVaw2SZV4DAzds3Ye_pmoVpT12&ust=1610373690799000&source=images&cd=vfe&ved=2ahUKEwjDqtHPw5HuAhU7ZRUIHRfYDuQQr4kDegUIARCGAQ
     gym2- image - https://aaptiv.com/magazine/functional-training) 
 
-* **Code for outlay and website set up**: Code Institute videos on CSS Fundamentals and User Centric Frontend Development. 
+* **Code for outlay and website set up**: Code Institute videos on CSS Fundamentals and User Centric Frontend Development. The "whiskey store project" was used for code too. 
 
 * **Code for timetable**: https://www.bootdey.com/snippets/view/time-table - I used the code for the timetable from this webiste and amended it to make the timetable. 
 
@@ -120,7 +149,10 @@ over it did not work. I discussed this with my mento and we were unable to solve
 * **Code for map**: https://mdbootstrap.com/docs/b4/jquery/javascript/google-maps/ - I used the code from this website to for the map for the website. 
 
 
-     
+## Acknowledgements
+* My Mentor for continuous helpful feedback.
+
+* Tutor support at Code Institute for their support.
 
 
 
