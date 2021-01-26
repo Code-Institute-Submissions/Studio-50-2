@@ -134,10 +134,10 @@ mobile version of the website. I removed the bootstrap code which fixed the marg
 * Copy the url provided.
 * Open the terminal that you would like to use to clone the site and enter 'git clone' followed by the copied url. When you press enter, the code will be cloned.*
 
-## Credits 
+# Credits 
 * **Logo**: was created using www.canva.com along with fontawesome for the logos in the feaures section. 
 
-* **Images**:  Girl1-gym- (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shape.com%2Ffitness%2Fworkouts%2Fleg-workouts%2Fkettlebell-squat-variations&psig=AOvVaw2SZV4DAzds3Ye_pmoVpT12&ust=1610373690799000&source=images&cd=vfe&ved=2ahUKEwjDqtHPw5HuAhU7ZRUIHRfYDuQQr4kDegUIARCGAQ
+* **Images**:  [Girl1-gym-](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shape.com%2Ffitness%2Fworkouts%2Fleg-workouts%2Fkettlebell-squat-variations&psig=AOvVaw2SZV4DAzds3Ye_pmoVpT12&ust=1610373690799000&source=images&cd=vfe&ved=2ahUKEwjDqtHPw5HuAhU7ZRUIHRfYDuQQr4kDegUIARCGAQ
     gym2- image - https://aaptiv.com/magazine/functional-training) 
 
 * **Code for outlay and website set up**: Code Institute videos on CSS Fundamentals and User Centric Frontend Development. The "whiskey store project" was used for code too. 
@@ -149,7 +149,7 @@ mobile version of the website. I removed the bootstrap code which fixed the marg
 * **Code for map**: https://mdbootstrap.com/docs/b4/jquery/javascript/google-maps/ - I used the code from this website to for the map for the website. 
 
 
-## Acknowledgements
+# Acknowledgements
 * My Mentor for continuous helpful feedback.
 
 * Tutor support at Code Institute for their support.
