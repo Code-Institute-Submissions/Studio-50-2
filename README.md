@@ -109,7 +109,13 @@ mobile version of the website. I removed the bootstrap code which fixed the marg
 
 * Website
 
-![Lighthouse - website](https://user-images.githubusercontent.com/73709934/105905425-549e2a80-601a-11eb-9f87-1f9e68bfff07.JPG)
+![Lighthouse - website](https://user-images.githubusercontentgid.com/73709934/105905425-549e2a80-601a-11eb-9f87-1f9e68bfff07.JPG)
+
+* Validator Results 
+
+* [CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fckk-pls.github.io%2FStudio-50-2%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) - CSS validator results 
+
+* [HTML](https://validator.w3.org/nu/?doc=https%3A%2F%2Fckk-pls.github.io%2FStudio-50-2%2F) - HTML validator results 
 
 * **Other Testing**
 
